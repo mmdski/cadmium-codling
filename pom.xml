@@ -10,6 +10,20 @@
   <name>cadmium-codling</name>
   <url>https://github.com/mmdski/cadmium-codling</url>
 
+  <developers>
+    <developer>
+      <id>mmdski</id>
+      <name>Marian Domanski</name>
+      <email>mmdski@gmail.com</email>
+      <url>https://github.com/mmdski</url>
+      <roles>
+        <role>architect</role>
+        <role>developer</role>
+      </roles>
+      <timezone>America/Chicago</timezone>
+    </developer>
+  </developers>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
